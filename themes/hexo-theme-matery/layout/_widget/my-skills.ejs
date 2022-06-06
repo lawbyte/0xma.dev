@@ -7,18 +7,18 @@ var topSkillArr = [];
     <div class="title center-align" data-aos="zoom-in-up">
         <i class="fas fa-wrench"></i>&nbsp;&nbsp;<%- __('mySkills') %>
     </div>
-    <div class="other-skills chip-container row" data-aos="zoom-in-up">
+    <div class="other-skills chip-container row" style="margin-top: 0.1px;">
         <% if (mySkills) { %>
         <% Object.keys(mySkills).forEach(function(skill) { %>
         <% topSkillArr.push(skill); %>
-        <div class="col s4" data-aos="fade-up">
-            <div class="tag-chips center-align">
-                <span class="chip center-align waves-effect waves-light chip-default"><%- skill %></span>
-            </div>
+        <div class="col s12 m6 l6 tag-chips center-align" data-aos="fade-up">
+            <span class="chip center-align waves-effect waves-light chip-default"><%- skill %></span>
         </div>
         <% }); %>
         <% } %>
     </div>
+    
+    
 
     <%
     /**
