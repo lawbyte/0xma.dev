@@ -112,7 +112,7 @@ recommend:
 
 # Configure website favicon and LOGO
 # 配置网站favicon和网站LOGO
-favicon: /favicon.png
+favicon: /medias/hacker.png
 logo: /medias/hacker.png
 
 # The configuration of the second button in the home banner,
