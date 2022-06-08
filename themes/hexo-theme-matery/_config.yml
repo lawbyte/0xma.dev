@@ -199,7 +199,7 @@ profile:
   name: 0xma
   avatar: /medias/profile.gif
   career: Cyber Security Analyst
-  introduction: Android Pentest, IoS Pentest, Web Pentest, Infra Pentest, Network Pentest.
+  introduction: Android Pentest, iOS Pentest, Web Pentest, Infra Pentest, Network Pentest.
 
 # config my projects informations in about page.
 # If you don't want to display this `My Projects` content, you can deactivate or delete this configuration.
