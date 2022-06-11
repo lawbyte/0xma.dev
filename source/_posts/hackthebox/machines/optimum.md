@@ -1,5 +1,5 @@
 ---
-title: post
+title: Optimum
 date: 2022-06-11 15:08:08
 img: /medias/images/optimum/Optimum.png
 author: 0xma

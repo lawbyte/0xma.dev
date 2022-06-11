@@ -1,5 +1,5 @@
 ---
-title: post
+title: Devel
 date: 2022-06-11 15:08:03
 author: 0xma
 img: /medias/images/devel/Devel.png
