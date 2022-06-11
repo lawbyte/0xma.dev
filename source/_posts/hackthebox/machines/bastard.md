@@ -2,6 +2,7 @@
 title: Bastard
 date: 2022-06-06 22:25:00
 author: 0xma
+img: /medias/images/bastard/Bastard.png
 categories: 
   - hackthebox
   - windows
